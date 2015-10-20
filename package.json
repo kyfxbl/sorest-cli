@@ -1,6 +1,6 @@
 {
   "name": "sorest-cli",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "command line interface for sorest",
   "main": "lib/index",
   "bin": {
